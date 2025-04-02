@@ -1,4 +1,4 @@
-# 🌱 Compost Connector
+ # 🌱 Compost Connector
 
 **Compost Connector** is a web-based platform that connects waste producers with composters, facilitating the efficient recycling of organic waste into valuable compost. This project was developed as part of the **Smart Instinct Initiative Hackathon** at SRM AP University.
 
@@ -108,11 +108,6 @@ This project is currently a **prototype** with the following features:
 
 ## 🏆 Contributing
 We welcome contributions! Feel free to **fork** the repository and submit a **pull request**.
-
----
-
-## 📜 License
-📄 This project is licensed under the **MIT License**.
 
 ---
 

@@ -99,7 +99,8 @@ This project is currently a **prototype** with the following features:
 ✅ **Environmental impact calculation** - Based on simplified formulas  
 
 ### 🚀 Future Enhancements
-⫍ Can be implemented But with a time constraint we just can do this
+While these features **can be implemented**, due to **time constraints**, we were unable to include them in the current version. However, these can be added in future updates or by contributors. We will be dropping the **roadmap** of our project for reference (**see roadmap.png**). 
+
 🔜 IoT integration for **real-time bin monitoring**  
 🔜 **Mobile application** for easier access  
 🔜 **Payment gateway integration** for compost purchases  

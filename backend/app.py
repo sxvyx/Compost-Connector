@@ -10,8 +10,8 @@ from impact_calculator import calculate_environmental_impact
 import config
 from geopy.geocoders import Nominatim
 
-app = Flask(__name__, static_folder='C:/Users/savy/OneDrive/Lurker Snippet/GreenHive/frontend/static',
-            template_folder='C:/Users/savy/OneDrive/Lurker Snippet/GreenHive/frontend')
+app = Flask(__name__, static_folder='C:/GreenHive/frontend/static',  # replace with your directory
+            template_folder='C:/GreenHive/frontend')  # replace with your directory
 CORS(app)  # Enable CORS for all routes
 
 # Database connection function

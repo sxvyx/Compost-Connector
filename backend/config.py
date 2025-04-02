@@ -2,7 +2,7 @@
 DB_HOST = 'localhost'
 DB_NAME = 'greenhive'
 DB_USER = 'root'  # replace with your MySQL username
-DB_PASSWORD = '12481'  # replace with your MySQL password
+DB_PASSWORD = 'password'  # replace with your MySQL password
 
 # Application settings
 DEBUG = True

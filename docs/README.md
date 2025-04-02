@@ -99,6 +99,7 @@ This project is currently a **prototype** with the following features:
 ✅ **Environmental impact calculation** - Based on simplified formulas  
 
 ### 🚀 Future Enhancements
+## Can be implemented But with a time constraint we just can do this
 🔜 IoT integration for **real-time bin monitoring**  
 🔜 **Mobile application** for easier access  
 🔜 **Payment gateway integration** for compost purchases  

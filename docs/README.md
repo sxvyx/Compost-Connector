@@ -1,6 +1,6 @@
  # 🌱 Compost Connector
 
-**Compost Connector** is a web-based platform that connects waste producers with composters, facilitating the efficient recycling of organic waste into valuable compost. This project was developed as part of the **Smart Instinct Initiative Hackathon** at SRM AP University.
+**Compost Connector Named GreenHive** is a web-based platform that connects waste producers with composters, facilitating the efficient recycling of organic waste into valuable compost. This project was developed as part of the **Smart Instinct Initiative : Code Blind Contest** at SRM AP University.
 
 ---
 
